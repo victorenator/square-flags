@@ -1,6 +1,6 @@
 {
   "version": "1.5.3",
-  "name": "@kapowaz/square-flags",
+  "name": "@victorenator/square-flags",
   "description": "A collection of square SVG country flags.",
   "repository": "github:kapowaz/square-flags",
   "engines": {
