@@ -4,9 +4,7 @@
   "description": "A collection of square SVG country flags.",
   "repository": "github:kapowaz/square-flags",
   "engines": {
-    "node": ">=18.18.*",
-    "npm": "please-use-yarn",
-    "yarn": ">= 1.22.0"
+    "node": ">=18.18.*"
   },
   "scripts": {
     "svgo": "svgo ./flags --recursive --config=svgo.config.js && svgo ./flags-original --recursive --config=svgo.config.js",
